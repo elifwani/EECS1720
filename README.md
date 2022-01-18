@@ -6,3 +6,4 @@ These projects will be in different repos (as to not make a mess) but some of th
 <br> I have an Oculus Quest 2, so I thought it would be amazing to be able to play/experience things I create in VR.
 * Conductive painting
 <br> I saw a painting on TikTok in which the artist used conductive paint in some parts of the piece and made the art piece a "piano". I want to take inspiration from that and createe something of that sort myself.
+* TouchDesigner
